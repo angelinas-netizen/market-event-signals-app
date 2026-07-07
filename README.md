@@ -79,7 +79,7 @@ Market Event Signals can help users:
 * Telegram: https://t.me/marketeventsignals_bot?start=github
 * X: https://x.com/Macro_signals_
 * Medium: https://medium.com/@market-event-signals
-* LinkedIn: Add clean company/profile URL here
+* LinkedIn: https://www.linkedin.com/company/135185084/admin/dashboard/git-hub
 * Product Hunt: https://www.producthunt.com/products/market-event-signals?launch=market-event-signals
 
 ---
