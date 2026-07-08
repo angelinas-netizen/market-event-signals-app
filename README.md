@@ -1,8 +1,12 @@
 # Market Event Signals
 
-**Market Event Signals maps market-moving events to potentially exposed stocks and ETFs.**
+**Market Event Signals is a Telegram app that turns market-moving events into stock and ETF exposure maps.**
 
-The product is built for traders, investors, and market watchers who want a clearer way to understand how news events can affect market exposure.
+It helps traders, investors, and market watchers understand how news events may affect U.S. stocks, ETFs, sectors, and broader market themes.
+
+Instead of only showing that something happened, Market Event Signals explains what the event may touch in the market.
+
+## How it works
 
 The idea is simple:
 
@@ -10,7 +14,7 @@ The idea is simple:
 
 A headline tells you what happened.
 
-A market map shows what the headline can touch.
+Market Event Signals helps show what that headline can affect.
 
 ---
 
@@ -81,6 +85,7 @@ Market Event Signals can help users:
 * Medium: https://medium.com/@market-event-signals
 * LinkedIn: https://www.linkedin.com/company/135185084/admin/dashboard/git-hub
 * Product Hunt: https://www.producthunt.com/products/market-event-signals?launch=market-event-signals
+* Reddit: https://www.reddit.com/user/MarketEventSignals/
 
 ---
 
